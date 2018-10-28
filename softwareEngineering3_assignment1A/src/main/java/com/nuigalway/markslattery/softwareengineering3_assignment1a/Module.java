@@ -1,3 +1,6 @@
+package com.nuigalway.markslattery.softwareengineering3_assignment1a;
+
+import com.nuigalway.markslattery.softwareengineering3_assignment1a.Course;
 import org.joda.time.DateTime;
 
 public class Module {

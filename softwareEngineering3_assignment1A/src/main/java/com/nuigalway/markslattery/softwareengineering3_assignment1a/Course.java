@@ -1,3 +1,5 @@
+package com.nuigalway.markslattery.softwareengineering3_assignment1a;
+
 import org.joda.time.DateTime;
 
 public class Course {

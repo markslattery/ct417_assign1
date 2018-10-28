@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+import com.nuigalway.markslattery.softwareengineering3_assignment1a.Student;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
